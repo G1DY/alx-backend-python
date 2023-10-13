@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Imports wait_random from the previous python file
-   writes an async routine called wait_n that takes 
+   writes an async routine called wait_n that takes
    in 2 int arguments
-"""
+   """
 import asyncio
 from typing import List
 
